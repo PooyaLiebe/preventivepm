@@ -41,7 +41,7 @@ function SubmitForm() {
   return (
     <div className="body dark:bg-secondary-dark-bg rounded-3xl">
       <div className="container">
-        <header>Submit Form</header>
+        <header>ثبت فرم</header>
         <form onSubmit={handleSubmit}>
           <div className="form first">
             <div className="details personal">
